@@ -66,12 +66,12 @@ Students can upload audio files, video files, or provide YouTube links to conver
 7. Use the interactive Q&A feature to ask questions about the transcribed content and you will get an answer immediately.
 
 Inputs : 
-![Alt text](InputInterface.png)
+![Alt text](images/InputInterface.png)
 
 outputs: 
-![Alt text](out1.png)
-![Alt text](out2.png)
-![Alt text](out3.png)
+![Alt text](images/out1.png)
+![Alt text](images/out2.png)
+![Alt text](images/out3.png)
 ## Conclusion
 The Student Helper App is a comprehensive tool for students looking to enhance their learning experience through automated transcription, summarization, Q&A generation, and interactive question-answering. Its bilingual capabilities make it accessible to a broader audience, ensuring that students can efficiently study and review educational materials in their preferred language.
 
