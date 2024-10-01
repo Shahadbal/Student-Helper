@@ -76,6 +76,7 @@ outputs:
 The Student Helper App is a comprehensive tool for students looking to enhance their learning experience through automated transcription, summarization, Q&A generation, and interactive question-answering. Its bilingual capabilities make it accessible to a broader audience, ensuring that students can efficiently study and review educational materials in their preferred language.
 
 ## Links
-- [Hugging Face Spaces](https://huggingface.co/spaces)
+- [Hugging Face Spaces](https://huggingface.co/spaces/Shahadbal/Study-Helper)
+- [Slides](https://www.canva.com/design/DAGSV7BQIVk/Qdez04HT7NZQc2py7xeEsw/edit?utm_content=DAGSV7BQIVk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Authors : [Shahad Albalawi, Nojood Alnahdi]
