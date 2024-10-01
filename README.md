@@ -1,9 +1,9 @@
 # Student Helper App (Bilingual - Arabic & English)
 
 ## Project Overview
-The Student Helper App is designed to assist students in efficiently managing, reviewing, and studying educational content by leveraging advanced machine learning models. This app offers functionalities such as transcription of audio content, summarization of text, translation between Arabic and English, automatic question-answer generation, and interactive question-answering.
+The Student Helper App is designed to assist students in efficiently managing, reviewing, and studying educational content by leveraging advanced machine learning models. This app offers functionalities such as audio content transcription, text summarization, translation between Arabic and English, automatic question-answer generation, and interactive question-answering.
 
-Students can upload audio files, video files, or provide YouTube links to convert speech into text, enabling them to review and engage with educational materials effectively. The app generates relevant questions based on the transcribed content, and students can also ask their own questions to receive contextual answers. This bilingual application supports both Arabic and English, making it accessible to a wider audience and enhancing the learning experience.
+Students can upload audio files, and video files, or provide YouTube links to convert speech into text, enabling them to review and engage with educational materials effectively. The app generates relevant questions based on the transcribed content, and students can also ask their own questions to receive contextual answers. This bilingual application supports Arabic and English, making it accessible to a wider audience and enhancing the learning experience.
 
 ## Features
 - **Audio and Video Processing**: Users can upload audio files, video files, or provide YouTube links for automatic transcription.
@@ -74,6 +74,9 @@ outputs:
 ![Alt text](images/out3.png)
 ## Conclusion
 The Student Helper App is a comprehensive tool for students looking to enhance their learning experience through automated transcription, summarization, Q&A generation, and interactive question-answering. Its bilingual capabilities make it accessible to a broader audience, ensuring that students can efficiently study and review educational materials in their preferred language.
+
+## Notes
+Hugging Face did not provide YouTube links due to concerns, and the Q&A generator was not included because the model was trained on Transformers 3.0.0, which encountered issues with Hugging Face's support for version 4.0.0
 
 ## Links
 - [Hugging Face Spaces](https://huggingface.co/spaces/Shahadbal/Study-Helper)
