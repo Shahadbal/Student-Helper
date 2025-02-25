@@ -81,5 +81,5 @@ Hugging Face did not provide YouTube links due to concerns, and the Q&A generato
 ## Links
 - [Hugging Face Spaces](https://huggingface.co/spaces/Shahadbal/Study-Helper)
 - [Slides](https://www.canva.com/design/DAGSV7BQIVk/Qdez04HT7NZQc2py7xeEsw/edit?utm_content=DAGSV7BQIVk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Video](https://drive.google.com/file/d/1CXEkLR-ENoRrNhitH-FRvRCOB09lpFBx/view?usp=sharing)
+
 ## Authors : [Shahad Albalawi, Nojood Alnahdi]
